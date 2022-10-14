@@ -1,3 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 div{
-    color: rgb(210, 47, 47);
+    color: red;
+}
+
+.all{
+    font-size: 20px;
+    background-color: black;
+    background-size: cover;
 }
