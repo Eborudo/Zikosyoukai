@@ -1,3 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
 div{
-    color: rgb(210, 47, 47);
+    color: red;
+}
+
+.all{
+    font-size: 20px;
+    background-color:white;
+    background-size: cover;
+}
+
+.header{
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 40px;
+    background-color: black;
+}
+
+.head{
+    height: 100px;
+    background-color: black;
+    text-align: center;
+
+}
+
+.sns img{
+    width: 80px;
+}
+
+.picture{
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-align: center;
+    width: 30%;
+    height: 30%;
+    border-radius: 5px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.pic{
+    display: table;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.pic li{
+    width: 100%;
+    display: table-cell;
+}
+
+.pic img{
+    width: 380px;
+}
+
+.hobby{
+    margin-bottom:20px;
 }
